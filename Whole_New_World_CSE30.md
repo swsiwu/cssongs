@@ -1,4 +1,4 @@
-(*Whole New World* with a twist) For CSE 30
+# (*Whole New World* with a twist) For CSE 30
 Student to tutor:
 I can show you my code
 Concise, indented, Commented
@@ -37,5 +37,6 @@ C is amazing (Though I’m suffering)
 Assembly is a lot
 I just wanna get A
 For CSE 30
+
 lol I really enjoy writing this. Maybe I will write another one for getting into CSE major?... Part of Your World?
 Pray for all the kids who are taking CSE30 next quarter. I'm excited to tutor y'all and learn along the way 
